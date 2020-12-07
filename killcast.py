@@ -8,6 +8,7 @@ import socket
 import requests
 import argparse
 import ipaddress
+import csv
 from xml.etree import ElementTree
 requests.packages.urllib3.disable_warnings()
 
